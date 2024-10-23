@@ -26,13 +26,13 @@
   </a>
 
 # 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naaatan&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusuke-na&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 📊 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naaatan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yusuke-na&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naaatan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke-na&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
