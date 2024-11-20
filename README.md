@@ -25,14 +25,12 @@
     <img src="https://zenn.badge.nikaera.com/s/yusuke87/scraps?style=plastic" alt="yusuke87 scraps" />
   </a>
 
+# 🐤 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusuke-na&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusuke-na&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusuke-na&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusuke-na&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusuke-na&theme=transparent&utcOffset=9)
+
 # 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusuke-na&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-# 📊 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yusuke-na&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke-na&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+![trophy](https://github-profile-trophy.vercel.app/?username=yusuke-na&theme=tokyonight&no-bg=true&no-frame=true)
