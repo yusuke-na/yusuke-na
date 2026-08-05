@@ -1,3 +1,1 @@
-<div align="center">
-   <img src="https://capsule-render.vercel.app/api? type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&desc=Every%20failure%20is%20a%20step%20to%20success&animation=fadeIn&descAlignY=65&descAlign=60)
